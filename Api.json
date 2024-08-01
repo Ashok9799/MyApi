@@ -1,0 +1,30 @@
+[
+     
+      {
+        "test_id": "test001",
+        "title": "General Knowledge Mock Test",
+        "description": "Prepare for the general knowledge section of competitive exams.",
+        "link": "https://www.examly.com/tests/general-knowledge-mock-test",
+        "image": "../../public/./images/card image.jpg"
+      },
+      {
+        "test_id": "test002",
+        "title": "Quantitative Aptitude Practice",
+        "description": "Practice quantitative aptitude questions for competitive exams.",
+        "link": "https://www.examly.com/tests/quantitative-aptitude-practice"
+      },
+      {
+        "test_id": "test003",
+        "title": "verable Practice",
+        "description": "Practice quantitative aptitude questions for competitive exams.",
+        "link": "https://www.examly.com/tests/quantitative-aptitude-practice"
+      },
+      {
+        "test_id": "test004",
+        "title": "Reasoning Practice",
+        "description": "Practice quantitative aptitude questions for competitive exams.",
+        "link": "https://www.examly.com/tests/quantitative-aptitude-practice"
+      }
+    
+  ]
+  
